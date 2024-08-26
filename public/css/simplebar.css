@@ -1,0 +1,12 @@
+.simplebar-content {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+.simplebar-placeholder {
+    display: none;
+}
+
+
+/*# sourceMappingURL=simplebar.css.map */
